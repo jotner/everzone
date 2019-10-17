@@ -1,4 +1,4 @@
-# Everzone
-Ett komplett WordPress-tema skapat för en fiktionell nöjespark i sammanhang med ett grupparbete för kursen CMS I. Skapat med Advanced Custom Fields och WooCommerce.
+# Everzone - A WordPress ACF Project
+A complete WordPress theme created for a fictional amusement park as an assignment for the course CMS I. Created with Advanced Custom Fields and WooCommerce.
 
-Gruppmedlemmar: André Ingman, Jonathan Eriksson, Victor Olsson & Johan Westin.
+Group members: André Ingman, Jonathan Eriksson, Victor Olsson & Johan Westin.
